@@ -6,7 +6,7 @@ Welcome to **SkillSync**, a personalized academic dashboard built using **React.
 
 ## 🚀 Live Demo
 
-🌐 Check out the live site here: [https://vercel.com/shaikumar2005s-projects/skillsync]
+🌐 Check out the live site here: [https://skillsync-pied.vercel.app/]
 
 ---
 
