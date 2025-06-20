@@ -32,5 +32,22 @@ I love working with code, design, and innovative tech. SkillSync is a reflection
 ---
 
 ## 📁 Folder Structure
+skillsync/
+├── public/
+│ └── index.html
+├── src/
+│ ├── Components/
+│ │ ├── Navbar.js
+│ │ ├── SocialLinks.js
+│ ├── Pages/
+│ │ ├── Home.js
+│ │ ├── Projects.js
+│ │ ├── Certifications.js
+│ │ ├── About.js
+│ ├── assets/
+│ │ └── shai.jpg
+│ ├── App.js
+│ ├── App.css
+│ └── index.js
 
 
